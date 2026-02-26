@@ -47,7 +47,7 @@ Now when I run `nmap -sS` or `ping` or look at Wireshark output, my brain works 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/netprobe.git
+git clone https://github.com/id-sidhu/netprobe.git
 cd netprobe
 ```
 
